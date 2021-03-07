@@ -5,7 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Aodevsolutions - App</title>
-
+	<link rel="icon" href="https://aodevsolutions.files.wordpress.com/2019/09/cropped-img-20190719-wa0000.jpg?w=32" sizes="32x32" />
+<link rel="icon" href="https://aodevsolutions.files.wordpress.com/2019/09/cropped-img-20190719-wa0000.jpg?w=192" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://aodevsolutions.files.wordpress.com/2019/09/cropped-img-20190719-wa0000.jpg?w=180" />
+<meta name="msapplication-TileImage" content="https://aodevsolutions.files.wordpress.com/2019/09/cropped-img-20190719-wa0000.jpg?w=270" />
+    
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" />
     <link rel="stylesheet" href="css/all.min.css" />
     <link rel="stylesheet" href="css/bootstrap.min.css" />
@@ -36,7 +40,7 @@
                   <ul class="navbar-nav">
                     <li class="nav-item active">
                       <div class="tm-nav-link-highlight"></div>
-                      <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                      <a class="nav-link" href="https://aodevsolutions.azurewebsites.net/">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
                       <div class="tm-nav-link-highlight"></div>
