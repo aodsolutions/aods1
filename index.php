@@ -65,7 +65,7 @@
           </div>
         </div>
 
-        <section class="row" id="tmHome">
+     <!--   <section class="row" id="tmHome">
           <div class="col-12 tm-home-container">
             <div class="text-white tm-home-left">
               <p class="text-uppercase tm-slogan">We can develop</p>
@@ -80,7 +80,7 @@
             </div>
           </div>
         </section>
-
+-->
         <!-- Features -->
         <div class="row" id="tmFeatures">
           <div class="col-lg-4">
