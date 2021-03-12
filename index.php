@@ -168,6 +168,20 @@
                 </p>
             </div>
           </div>
+		<div class="col-lg-4">
+            <div class="tm-bg-white-transparent tm-feature-box">
+                <h3 class="tm-feature-name">Pinterest</h3>
+
+                <div class="tm-feature-icon-container">
+                    <i class="fas fa-3x fa-satellite-dish"></i>
+                </div>
+                <p class="text-center">
+                <a data-pin-do="embedUser" data-pin-board-width="900"
+           data-pin-scale-height="120" data-pin-scale-width="115"
+            href="https://www.pinterest.com/aodevsolutions/"></a>
+                </p>
+            </div>
+          </div>
         </div>
         <!-- Call to Action -->
         <section class="row" id="tmCallToAction">
@@ -198,7 +212,7 @@
       </div>
       <!-- .container-fluid -->
     </div>
-
+<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
     <script src="js/jquery.min.js"></script>
     <script src="js/parallax.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
