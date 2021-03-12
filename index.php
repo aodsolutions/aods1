@@ -201,8 +201,9 @@
             <div class="tm-bg-white-transparent tm-feature-box">
 		    <h3 class="tm-feature-name">Facebook</h3>
 		    <p class="text-center">
-		<div class="fb-page" data-href="https://www.facebook.com/aodevsolutions/" data-tabs="timeline" data-width="900" data-height="320" 
-		     data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/aodevsolutions/" 
+		<div class="fb-page" data-href="https://www.facebook.com/aodevsolutions/" data-tabs="timeline,events,messages" data-width="900" data-height="320" 
+		     data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+			<blockquote cite="https://www.facebook.com/aodevsolutions/" 
 		class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/aodevsolutions/">Adaptive Operating Development Solutions</a></blockquote></div>
 					</div>
 					</p>
