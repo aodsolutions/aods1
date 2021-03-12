@@ -178,7 +178,7 @@
                 </div>-->
                 <p class="text-center">
                 <a data-pin-do="embedUser" data-pin-board-width="900"
-           data-pin-scale-height="120" data-pin-scale-width="115"
+           data-pin-scale-height="320" data-pin-scale-width="115"
             href="https://www.pinterest.com/aodevsolutions/"></a>
                 </p>
             </div>
