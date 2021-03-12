@@ -168,6 +168,7 @@
                 </p>
             </div>
           </div>
+
 		<div class="col-lg-4">
             <div class="tm-bg-white-transparent tm-feature-box">
                 <h3 class="tm-feature-name">Pinterest</h3>
@@ -182,6 +183,21 @@
                 </p>
             </div>
           </div>
+				<div class="col-lg-4">
+            <div class="tm-bg-white-transparent tm-feature-box">
+                <h3 class="tm-feature-name">Facebook</h3>
+
+               <!-- <div class="tm-feature-icon-container">
+                    <i class="fas fa-3x fa-satellite-dish"></i>
+                </div>-->
+                <p class="text-center">
+                <a data-pin-do="embedUser" data-pin-board-width="900"
+           data-pin-scale-height="120" data-pin-scale-width="115"
+            href="https://www.facebook.com/aodevsolutions/"></a>
+                </p>
+            </div>
+          </div>
+		
         </div>
         <!-- Call to Action -->
         <section class="row" id="tmCallToAction">
@@ -204,7 +220,7 @@
 
         <!-- Page footer -->
         <footer class="row">
-          <p class="col-12 text-white text-center tm-copyright-text">
+          <p class="col-12 text-black text-center tm-copyright-text">
             Copyright &copy; 2021 Aodevsolutions App. 
             Designed by <a href="https://aodevsolutions.wordpress.com/" class="tm-copyright-link">AODS</a>
           </p>
@@ -212,6 +228,7 @@
       </div>
       <!-- .container-fluid -->
     </div>
+	  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v10.0&appId=658376611470773&autoLogAppEvents=1" nonce="j35DMrbD"></script>
 <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
     <script src="js/jquery.min.js"></script>
     <script src="js/parallax.min.js"></script>
