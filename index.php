@@ -183,19 +183,30 @@
                 </p>
             </div>
           </div>
-				<div class="col-lg-4">
+				<!--<div class="col-lg-4">
             <div class="tm-bg-white-transparent tm-feature-box">
                 <h3 class="tm-feature-name">Facebook</h3>
 
-               <!-- <div class="tm-feature-icon-container">
+                <div class="tm-feature-icon-container">
                     <i class="fas fa-3x fa-satellite-dish"></i>
-                </div>-->
+                </div>
                 <p class="text-center">
                 <a data-pin-do="embedUser" data-pin-board-width="900"
            data-pin-scale-height="120" data-pin-scale-width="115"
             href="https://www.facebook.com/aodevsolutions/"></a>
                 </p>
-            </div>
+            </div>-->
+		
+				<div class="col-lg-4">
+            <div class="tm-bg-white-transparent tm-feature-box">
+		    <h3 class="tm-feature-name">Facebook</h3>
+		    <p class="text-center">
+		<div class="fb-page" data-href="https://www.facebook.com/aodevsolutions/" data-tabs="timeline" data-width="900" data-height="120" 
+		     data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/aodevsolutions/" 
+		class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/aodevsolutions/">Adaptive Operating Development Solutions</a></blockquote></div>
+					</div>
+					</p>
+		</div>
           </div>
 		
         </div>
