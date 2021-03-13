@@ -237,7 +237,7 @@
             Copyright &copy; 2021 Aodevsolutions App. 
             Designed by <a href="https://aodevsolutions.wordpress.com/" class="tm-copyright-link">AODS</a>
           </p>
-		<ul class="wp-block-social-links">
+		<ul class="wp-block-social-links row">
 
 
 
