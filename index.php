@@ -10,6 +10,7 @@
 <link rel="apple-touch-icon" href="https://aodevsolutions.files.wordpress.com/2019/09/cropped-img-20190719-wa0000.jpg?w=180" />
 <meta name="msapplication-TileImage" content="https://aodevsolutions.files.wordpress.com/2019/09/cropped-img-20190719-wa0000.jpg?w=270" />
     <meta name="p:domain_verify" content="330ab49e00ab10d446d190d685d29e1a"/>
+	  <meta name="facebook-domain-verification" content="t6mb8rkjbtxd1dxyt13410fyul7xir" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" />
     <link rel="stylesheet" href="css/all.min.css" />
     <link rel="stylesheet" href="css/bootstrap.min.css" />
