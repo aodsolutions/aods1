@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Aodevsolutions - App</title>
-	<link rel="icon" href="https://aodevsolutions.files.wordpress.com/2019/09/cropped-img-20190719-wa0000.jpg?w=32" sizes="32x32" />
+<meta name="facebook-domain-verification" content="30qs1ruv81htezeand6u10ogeg91o2" />	<link rel="icon" href="https://aodevsolutions.files.wordpress.com/2019/09/cropped-img-20190719-wa0000.jpg?w=32" sizes="32x32" />
 <link rel="icon" href="https://aodevsolutions.files.wordpress.com/2019/09/cropped-img-20190719-wa0000.jpg?w=192" sizes="192x192" />
 <link rel="apple-touch-icon" href="https://aodevsolutions.files.wordpress.com/2019/09/cropped-img-20190719-wa0000.jpg?w=180" />
 <meta name="msapplication-TileImage" content="https://aodevsolutions.files.wordpress.com/2019/09/cropped-img-20190719-wa0000.jpg?w=270" />
