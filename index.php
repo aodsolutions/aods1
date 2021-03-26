@@ -25,7 +25,7 @@
             <div class="tm-brand-container tm-bg-white-transparent">
               <div class="tm-brand-texts">
                 <h1 class="text-uppercase tm-brand-name">Aodevsolutions</h1>
-                <p class="small">AODS - Application</p>
+                <p class="small">AODS - Application Development Solutions</p>
               </div>
             </div>
           </div>
@@ -41,23 +41,23 @@
                   <ul class="navbar-nav">
                     <li class="nav-item active">
                       <div class="tm-nav-link-highlight"></div>
-                      <a class="nav-link" href="https://aodevsolutions.azurewebsites.net/">Home <span class="sr-only">(current)</span></a>
+                      <a class="nav-link" href="https://aodevsolutions.com/">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
                       <div class="tm-nav-link-highlight"></div>
-                      <a class="nav-link" href="about.html">About</a>
+                      <a class="nav-link" href="https://aodevsolutions.com/">About</a>
                     </li>
                     <li class="nav-item">
                       <div class="tm-nav-link-highlight"></div>
-                      <a class="nav-link" href="services.html">Services</a>
+                      <a class="nav-link" href="https://aodevsolutions.com/">Services</a>
                     </li>
                     <li class="nav-item">
                       <div class="tm-nav-link-highlight"></div>
-                      <a class="nav-link" href="testimonials.html">Testimonials</a>
+                      <a class="nav-link" href="https://aodevsolutions.com/">Clients</a>
                     </li>
                     <li class="nav-item">
                       <div class="tm-nav-link-highlight"></div>
-                      <a class="nav-link" href="contact.html">Contact</a>
+                      <a class="nav-link" href="https://aodevsolutions.com/">Contact</a>
                     </li>
                   </ul>
                 </div>
@@ -77,7 +77,7 @@
               <a href="#tmFeatures" class="btn btn-primary">Learn More</a>
             </div>
             <div class="tm-home-right">
-              <img src="img/mobile-screen.png" alt="App on Mobile mockup" />
+              <img src="img/mobile-screen.png" alt="App on Mobile" />
             </div>
           </div>
         </section>
@@ -180,7 +180,7 @@
                 <p class="text-center">
                 <a data-pin-do="embedUser" data-pin-board-width="900"
            data-pin-scale-height="220" data-pin-scale-width="115"
-            href="https://www.pinterest.com/aodevsolutions/"></a>
+            href="https://www.pinterest.com/AODS_Apps/"></a>
                 </p>
             </div>
           </div>
@@ -220,10 +220,10 @@
             <div class="tm-bg-white tm-call-to-action-text">
               <h2 class="tm-call-to-action-title">Updates</h2>
               <p class="tm-call-to-action-description">
-                You may browse <a rel="nofollow" href="http://www.aodevsolutions.somee.com">AODS</a> on more  frequently
+                You may browse <a rel="nofollow" href="https://faq.aodevsolutions.com/">AODS</a> on more  frequently
                  asked questions (FAQ) forum is often used in articles, websites, email lists, and online forums where common questions tend to recur.
               </p>
-              <form action="#" method="get" class="tm-call-to-action-form">                
+              <form action="faq.php" method="get" class="tm-call-to-action-form">                
                 <input name="email" type="email" class="tm-email-input" id="email" placeholder="Email" />
                 <button type="submit" class="btn btn-secondary">Get Updates</button>
               </form>
@@ -236,7 +236,7 @@
         <footer class="row">
           <p class="col-12 text-black text-center tm-copyright-text">
             Copyright &copy; 2021 Aodevsolutions App. 
-            Designed by <a href="https://aodevsolutions.wordpress.com/" class="tm-copyright-link">AODS</a>
+            Designed by <a href="https://aodevsolutions.com/" class="tm-copyright-link">AODS</a>
           </p>
 		<ul class="wp-block-social-links row">
 
