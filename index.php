@@ -223,7 +223,7 @@
                 You may browse <a rel="nofollow" href="https://faq.aodevsolutions.com/">AODS</a> on more  frequently
                  asked questions (FAQ) forum is often used in articles, websites, email lists, and online forums where common questions tend to recur.
               </p>
-              <form action="faq.php" method="get" class="tm-call-to-action-form">                
+              <form action="faq.php" method="post" class="tm-call-to-action-form">                
                 <input name="email" type="email" class="tm-email-input" id="email" placeholder="Email" />
                 <button type="submit" class="btn btn-secondary">Get Updates</button>
               </form>
