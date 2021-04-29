@@ -26,7 +26,7 @@
             <div class="tm-brand-container tm-bg-white-transparent">
               <div class="tm-brand-texts">
                 <h1 class="text-uppercase tm-brand-name">Aodevsolutions</h1>
-                <p class="small">AODS - Application Development Solutions</p>
+                <p class="small">Adaptive Operating Development Solutions</p>
               </div>
             </div>
           </div>
@@ -42,23 +42,23 @@
                   <ul class="navbar-nav">
                     <li class="nav-item active">
                       <div class="tm-nav-link-highlight"></div>
-                      <a class="nav-link" href="https://aodevsolutions.com/">Home <span class="sr-only">(current)</span></a>
+                      <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
                       <div class="tm-nav-link-highlight"></div>
-                      <a class="nav-link" href="https://aodevsolutions.com/">About</a>
+                      <a class="nav-link" href="#">About</a>
                     </li>
                     <li class="nav-item">
                       <div class="tm-nav-link-highlight"></div>
-                      <a class="nav-link" href="https://aodevsolutions.com/">Services</a>
+                      <a class="nav-link" href="#">Services</a>
                     </li>
                     <li class="nav-item">
                       <div class="tm-nav-link-highlight"></div>
-                      <a class="nav-link" href="https://aodevsolutions.com/">Clients</a>
+                      <a class="nav-link" href="https://aodevsolutions.business.site/">Clients</a>
                     </li>
                     <li class="nav-item">
                       <div class="tm-nav-link-highlight"></div>
-                      <a class="nav-link" href="https://aodevsolutions.com/">Contact</a>
+                      <a class="nav-link" href="https://aodevsolutions.business.site/#details">Contact</a>
                     </li>
                   </ul>
                 </div>
