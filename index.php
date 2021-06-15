@@ -54,7 +54,7 @@
                     </li>
                     <li class="nav-item">
                       <div class="tm-nav-link-highlight"></div>
-                      <a class="nav-link" href="https://aodevsolutions.business.site/">Clients</a>
+                      <a class="nav-link" href="https://aodevsolutions.com/portfolio-details.html">Clients</a>
                     </li>
                     <li class="nav-item">
                       <div class="tm-nav-link-highlight"></div>
