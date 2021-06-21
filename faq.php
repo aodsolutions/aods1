@@ -1,6 +1,6 @@
 <?php
 $to = "aodevsolutions@gmail.com";
-$from = "aodevsolutions@gmail.com";
+$from = "aodsflats1@gmail.com";
 
 $headers = "From: " . $from . "\r\n";
 
